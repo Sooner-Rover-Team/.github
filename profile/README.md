@@ -16,14 +16,15 @@ Welcome to the Sooner Rover Team GitHub organization! We are an interdisciplinar
 Explore our repositories to see the latest projects and contributions from our team members:
 
 - **SoonerRoverTeamV:** This is the repository the Sooner Rover Team most recently used in competition.
-- **RoverGUI:** New Rover GUI using Next.js.
+- **soro-documentation:** The guide to everything SoRo, in one repo.
+- **Drive:** A utility to manually drive the rover, move the arm, and operate the science package.
+- **Microcontrollers** All code running on microcontrollers on the rover.
 - **Autonomous:** Utilities for controlling the rover autonomously.
 - **RoverMap:** Mission Control's utility to see the rover on a map.
+- **RoverGUI:** New Rover GUI using Next.js.
 - **Drone:** General code base for the Sooner Rover Team's drone development.
 - **gps:** Pathing and GPS navigation for the rover.
 - **YOLO:** SoRo's fork/bindings to Darknet and its YOLO features.
-- **soro-documentation:** The guide to everything SoRo, in one repo.
-- **python_drive:** A utility to manually drive the rover, move the arm, and operate the science package.
 - **rovercam-python:** A Python-based video streamer.
 
 Feel free to explore our projects and repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Thank you for your interest in the Sooner Rover Team! 🚀
