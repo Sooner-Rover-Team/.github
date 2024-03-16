@@ -7,7 +7,7 @@ Welcome to the Sooner Rover Team GitHub organization! We are an interdisciplinar
 - **Location:** Rawl Engineering Practice Facility @ OU
 - **Website:** [ou.edu/soonerrover](https://ou.edu/soonerrover/)
 - **Facebook:** [Sooner Rover](http://www.facebook.com/pages/SoonerRover)
-- **Instagram:** [@SoonerRover]([https://twitter.com/SoonerRover](https://www.instagram.com/soonerrover/))
+- **Instagram:** [@SoonerRover](https://www.instagram.com/soonerrover/)
 - **LinkedIn:** [in/soonerrover](https://www.linkedin.com/in/soonerrover)
 - **Email:** [soonerrover@ou.edu](mailto:soonerrover@ou.edu)
 
