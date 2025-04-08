@@ -1,7 +1,4 @@
-<i align="center">
-    <img id="logo-img" src="./logo.png" width="35%" alt="Sooner Rover Team full logo"/>
-</i>
-
+<img id="logo-img" align="center" src="./logo.png" width="35%" alt="Sooner Rover Team full logo"/>
 
 Welcome to the **Sooner Rover Team**'s GitHub organization!
 
