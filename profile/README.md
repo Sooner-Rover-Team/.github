@@ -60,8 +60,6 @@ i had to use html though :p
 
 Our primary repositories are available below:
 
-![last commit shield/button](https://img.shields.io/github/last-commit/Sooner-Rover-Team/auto_ros2)
-
 - ![](https://img.shields.io/github/commit-activity/y/Sooner-Rover-Team/auto_ros2?style=plastic&label=auto_ros2%20commits), our next-generation Autonomous codebase (written in Rust and Python).
 - ![](https://img.shields.io/github/commit-activity/y/Sooner-Rover-Team/RoverGUI?style=plastic&label=RoverGUI%20commits), a web app for analyzing the Rover (written in TypeScript on Next.js).
 
